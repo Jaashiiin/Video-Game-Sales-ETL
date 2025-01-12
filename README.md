@@ -2,7 +2,7 @@
 Created a dashboard from the analysis conducted in Workbench using Power BI 
 
 
-![vidgames](https://github.com/user-attachments/assets/10454d3e-5923-4def-898f-608ffb59868a)
+![vgsales](https://github.com/user-attachments/assets/664bbfca-35a3-4d15-8a1a-74864e40810c)
 
 <h4>Dataset</h4>
 The dataset used in this project is Video Games Sales, published by Ulrik Thyge Pedersen on Kaggle. <br>
